@@ -1,0 +1,20 @@
+{
+  "name": "ion2-calendar",
+  "version": "2.2.1",
+  "description": "A date picker component for ionic2 ",
+  "main": "./index.js",
+  "typings": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HsuanXyz/ion2-calendar.git"
+  },
+  "keywords": [
+    "ionic2",
+    "calendar",
+    "Datepicker",
+    "date-range"
+  ],
+  "author": "HsuanLee",
+  "license": "MIT"
+}
+
